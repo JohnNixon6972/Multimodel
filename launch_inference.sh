@@ -1,5 +1,5 @@
 MODEL_PATH="$HOME/Coding/paligemma-3b-pt-224"
-PROMPT="this building is "
+PROMPT="this is the image of "
 IMAGE_FILE_PATH="test_images/pic1.jpg"
 MAX_TOKENS_TO_GENERATE=100
 TEMPERATURE=0.8
